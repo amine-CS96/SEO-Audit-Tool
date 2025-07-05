@@ -18,18 +18,16 @@
 
 ```
 seo-audit-tool/
-├── README.md                     # Présentation du projet
+├── README.md                      # Présentation du projet
 ├── LICENSE                        # Licence du projet
 │
 ├── backend/                       # Code du back-end (API, traitement)
 │   ├── app/                       # Code principal (en cours)
-│   ├── routes/                    # Routes API (en cours)
-│   └── tests/                     # Tests back-end (à venir)
+│   └── routes/                    # Routes API (en cours)
 │
 ├── frontend/                      # Code du front-end
 │   ├── src/                       # Composants, pages (en cours)
-│   ├── public/                    # Fichiers publics
-│   └── tests/                     # Tests front-end (à venir)
+│   └── public/                    # Fichiers publics
 │
 ├── reports/                       # Rapports générés (PDF, JSON)
 │
